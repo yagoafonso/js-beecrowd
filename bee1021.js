@@ -50,6 +50,3 @@ valor = valor % 0.05
 
 qtdNotas = parseInt(valor / 0.01)
 console.log(qtdNotas + " moeda(s) de R$ 0.01")
-
-
-
